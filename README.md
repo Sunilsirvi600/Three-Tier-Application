@@ -39,5 +39,7 @@ pm2 start npm --name backend -- start
 ```
 
 Frontend
-Modify the .env file and update the backend api endpoint 
+Modify the .env file and update the backend api endpoint
+
+# https://github.com/AmanPathak-DevOps/MERN-Stack-Project/blob/master/student-teacher-app/src/setupTests.js
 
